@@ -1,4 +1,4 @@
-![baner](https://github.com/nataliabanz/nataliabanz/blob/master/banerup.jpg)
+![baner](https://github.com/diebanz/diebanz/blob/master/banerup.jpg)
 
 ### Hello 👋
 
@@ -19,4 +19,4 @@ My name is [Natalia](https://nataliabanz.netlify.app/), and i am on my way to be
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliabanz&theme=radical))](https://github.com/nataliabanz/github-readme-stats)
 
 
-![baner](https://github.com/nataliabanz/nataliabanz/blob/master/banerdown.jpg)
+![baner](https://github.com/diebanz/diebanz/blob/master/banerdown.jpg)
