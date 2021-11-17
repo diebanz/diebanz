@@ -14,9 +14,9 @@ My name is [Natalia](https://nataliabanz.netlify.app/), and i am on my way to be
 ***
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliabanz&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diebanz&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliabanz&theme=radical))](https://github.com/nataliabanz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diebanz&theme=radical))](https://github.com/diebanz/github-readme-stats)
 
 
 ![baner](https://github.com/diebanz/diebanz/blob/master/banerdown.jpg)
