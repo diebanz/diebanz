@@ -2,7 +2,7 @@
 
 ### Hello 👋
 
-My name is [Natalia](https://diebanz.works and i am on my way to become Full Stack Web developer. 
+My name is [Natalia](https://diebanz.works) and i am on my way to become Full Stack Web developer. 
 
 
 🔶 2020 : Self taught HTML/CSS/SASS/JS with online courses (mainly Udemy), [Bootcamp](https://studiuje.it/) and my own projects. 
