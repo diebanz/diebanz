@@ -2,7 +2,7 @@
 
 ### Hello 👋
 
-My name is [Natalia](https://diebanz.works) and i am on my way to become Full Stack Web developer. 
+My name is [Natalia](https://diebanz.works) and i am a Frontend Developer. 
 
 
 🔶 2020 : Self taught HTML/CSS/SASS/JS with online courses (mainly Udemy), [Bootcamp](https://studiuje.it/) and my own projects. 
@@ -19,6 +19,18 @@ My name is [Natalia](https://diebanz.works) and i am on my way to become Full St
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diebanz&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diebanz&theme=radical))](https://github.com/diebanz/github-readme-stats)
+
+### NAVIGATION:
+#### Vanilla JS:
+- [Simple Pokemon Game](https://github.com/diebanz/VanillaJSPractise---POKEMON) 
+- [eShop](https://github.com/diebanz/VanillaJSPractise---eShop) 
+- [Calculator](https://github.com/diebanz/VanillaJSPractise---Calculator)
+- [Guess my number with Jonas Schmedtmann](https://github.com/diebanz/VanillaJSPractise---Guess-my-number)
+
+#### REACT:
+- [Feedback-App witg Brad Traversy](https://github.com/diebanz/ReactPracise---Feedback_App) 
+- [ToDoList - still in progress](https://github.com/diebanz/ReactPractise---TodoList) 
+- [Expenses-App with Max Schwarzmuller](https://github.com/diebanz/ReactPractise---ExpensesApp)
 
 
 ![baner](https://github.com/diebanz/diebanz/blob/master/banerdown.jpg)
