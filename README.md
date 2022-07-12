@@ -21,6 +21,11 @@ My name is [Natalia](https://diebanz.works) and i am a Frontend Developer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diebanz&theme=radical))](https://github.com/diebanz/github-readme-stats)
 
 ### NAVIGATION:
+#### HTML/CSS/SASS & JS
+- [My Portfolio](https://github.com/diebanz/Frau_Banz_vol.2)
+- [Personal website for J. Wielogorka](https://github.com/diebanz/Jozef_Wielogorka)
+- [50 Days Project with Brad Traversy](https://github.com/diebanz/50DaysProjects)
+
 #### Vanilla JS:
 - [Simple Pokemon Game](https://github.com/diebanz/VanillaJSPractise---POKEMON) 
 - [eShop](https://github.com/diebanz/VanillaJSPractise---eShop) 
