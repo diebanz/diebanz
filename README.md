@@ -2,7 +2,7 @@
 
 ### Hello 👋
 
-My name is [Natalia](https://diebanz.works) and i am a Frontend Developer. 
+My name is [Natalia](https://nataliabanz.netlify.app/) and i am a Frontend Developer. 
 
 
 🔶 2020 : Self taught HTML/CSS/SASS/JS with online courses (mainly Udemy), [Bootcamp](https://studiuje.it/) and my own projects. 
